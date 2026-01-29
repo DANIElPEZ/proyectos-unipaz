@@ -1,0 +1,50 @@
+{
+  "node": {
+    "006620b074f608f1712908e13522a8af637bd0d495": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 26518,
+          "async": false,
+          "exportedName": "getCookies",
+          "filename": "src/lib/actions/auth/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      },
+      "exportedName": "getCookies",
+      "filename": "src/lib/actions/auth/action.ts"
+    },
+    "40ff5ad0ae6113735faf5acbde284dae458d9d87c1": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 26518,
+          "async": false,
+          "exportedName": "setCookies",
+          "filename": "src/lib/actions/auth/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      },
+      "exportedName": "setCookies",
+      "filename": "src/lib/actions/auth/action.ts"
+    },
+    "607373d027355775fee2e8676461e736bc6788a4ff": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 26518,
+          "async": false,
+          "exportedName": "signIn",
+          "filename": "src/lib/actions/auth/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      },
+      "exportedName": "signIn",
+      "filename": "src/lib/actions/auth/action.ts"
+    }
+  },
+  "edge": {}
+}

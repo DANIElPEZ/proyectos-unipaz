@@ -1,0 +1,20 @@
+{
+  "node": {
+    "40dbeeb162e059ce773ea6d9a6027e012cc9ed5594": {
+      "workers": {
+        "app/dashboard/admin/page": {
+          "moduleId": 71722,
+          "async": false,
+          "exportedName": "getData",
+          "filename": "src/lib/actions/admin/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/admin/page": "action-browser"
+      },
+      "exportedName": "getData",
+      "filename": "src/lib/actions/admin/action.ts"
+    }
+  },
+  "edge": {}
+}

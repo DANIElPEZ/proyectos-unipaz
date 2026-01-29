@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/page.tsx"],"sourcesContent":["import { NavBar } from '@/src/components/ui/nav-bar'\n\nexport default function Home() {\n  return (\n    <div>\n      <NavBar />\n    </div>\n  );\n}\n"],"names":[],"mappings":"oVAAA,EAAA,EAAA,CAAA,CAAA,OAEe,SAAS,IACtB,MACE,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UACC,CAAA,EAAA,EAAA,GAAA,EAAC,EAAA,MAAM,CAAA,CAAA,IAGb"}

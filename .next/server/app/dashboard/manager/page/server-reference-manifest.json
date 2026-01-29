@@ -1,0 +1,170 @@
+{
+  "node": {
+    "40df1140757c877a0cf5908cbf3501a791abd968f4": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "insertDataStudent",
+          "filename": "src/lib/actions/student/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "insertDataStudent",
+      "filename": "src/lib/actions/student/action.ts"
+    },
+    "4023375bd8a23baae2dbdd008432443971914172c5": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updateDataProfessor",
+          "filename": "src/lib/actions/professor/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updateDataProfessor",
+      "filename": "src/lib/actions/professor/action.ts"
+    },
+    "603f537fdc2a97a1500ac983e263e983cb53542d1f": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "insertData",
+          "filename": "src/lib/actions/admin/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "insertData",
+      "filename": "src/lib/actions/admin/action.ts"
+    },
+    "789356f77ab1b0865bf38f9fb0beb43681a836e7c7": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updateData",
+          "filename": "src/lib/actions/admin/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updateData",
+      "filename": "src/lib/actions/admin/action.ts"
+    },
+    "40dbeeb162e059ce773ea6d9a6027e012cc9ed5594": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "getData",
+          "filename": "src/lib/actions/admin/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "getData",
+      "filename": "src/lib/actions/admin/action.ts"
+    },
+    "402620dffcd3c85786e3b09cbf5845ddde39a9ce98": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "createProject",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "createProject",
+      "filename": "src/lib/actions/manager/action.ts"
+    },
+    "40125bccffa017b42e903c0dcaad09bf605e682708": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updatePhaseProject",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updatePhaseProject",
+      "filename": "src/lib/actions/manager/action.ts"
+    },
+    "404c6d4fcb17c8ca1923809c46ed86bb2511a6522c": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updatePhaseProjectDate",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updatePhaseProjectDate",
+      "filename": "src/lib/actions/manager/action.ts"
+    },
+    "60095e3d4e4173083ded4e8a12e6c7ddd48913e0d1": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updateProject",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updateProject",
+      "filename": "src/lib/actions/manager/action.ts"
+    },
+    "40bc103f492b054c2a0e26064e9bcd8274593ac6c1": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "updateUserStatus",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "updateUserStatus",
+      "filename": "src/lib/actions/manager/action.ts"
+    },
+    "7899d074825ab2fdb144caec3875c5e99aea2a7fa3": {
+      "workers": {
+        "app/dashboard/manager/page": {
+          "moduleId": 53605,
+          "async": false,
+          "exportedName": "getCustomData",
+          "filename": "src/lib/actions/manager/action.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/manager/page": "action-browser"
+      },
+      "exportedName": "getCustomData",
+      "filename": "src/lib/actions/manager/action.ts"
+    }
+  },
+  "edge": {}
+}
